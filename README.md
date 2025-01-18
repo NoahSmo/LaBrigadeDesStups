@@ -1,50 +1,63 @@
-# Welcome to your Expo app 👋
+# 🚨 La Brigade des Stups 🚨
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Bienvenue dans **La Brigade des Stups**, l'application mobile qui transforme votre gestion de médicaments nocturnes en une mission hautement organisée ! 💊📱  
+Avec cette application, vous pouvez suivre précisément les médicaments administrés, par chambre et par position de lit (fenêtre ou porte). Parce que même dans la nuit, chaque pilule compte. 😴
 
-## Get started
+---
 
-1. Install dependencies
+## 🌟 Fonctionnalités
 
-   ```bash
-   npm install
-   ```
+- **Gestion des médicaments par chambre** :
+   - Indiquez le numéro de chambre.
+   - Optionnellement, précisez la position du lit (fenêtre ou porte, pour les perfectionnistes de l'organisation).
 
-2. Start the app
+- **Saisie rapide et intuitive** :
+   - Ajoutez les médicaments administrés en quelques clics.
+   - Tout est clair, rapide et bien rangé (contrairement au chariot des urgences).
 
-   ```bash
-    npx expo start
-   ```
+- **Organisation sans faille** :
+   - Ne perdez plus jamais la trace des distributions.
+   - Dites adieu aux fiches papier perdues dans les couloirs !
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🧐 Disclaimer : Cher(e)s agents de police 🕵️‍♂️🕵️‍♀️
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+> _"Cher(e)s membres des forces de l’ordre, avant de confisquer mon téléphone ou de débarquer avec une brigade cynophile, laissez-moi vous expliquer : **c’est une application médicale, pas un cartel numérique**."_
 
-## Get a fresh project
+**La Brigade des Stups** est une application 100% légale qui aide à gérer la distribution de médicaments dans un cadre hospitalier. Rien d’illégal ici : pas de poudre suspecte, pas de petites pilules bleues douteuses, et aucun lien avec Walter White. 🚫🍳
 
-When you're ready, run:
+Si vous êtes là par curiosité professionnelle :
+1. Explorez l’appli, elle est cool, non ?
+2. Lisez le code source (c'est open-source, rien à cacher ! 🕵️‍♂️).
+3. Passez le bonjour à votre pharmacien préféré, il confirmera que ce projet sauve des vies. 🏥💊
 
-```bash
-npm run reset-project
-```
+Alors, rangez vos menottes, et laissez-nous continuer à faire le bien (de manière parfaitement légale, promis). 😇
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 🛠️ Fonctionnalités techniques
 
-To learn more about developing your project with Expo, look at the following resources:
+- **Stack** :
+   - [React Native](https://reactnative.dev/) : pour une expérience mobile fluide et cross-platform.
+   - [Expo](https://expo.io/) : pour un développement rapide et efficace.
+   - [AsyncStorage](https://react-native-async-storage.github.io/async-storage/) : pour stocker localement les données sans prise de tête.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
+## 🎉 Contributions
 
-Join our community of developers creating universal apps.
+Vous avez une idée pour rendre cette application encore plus géniale ? Un bug à signaler ?  
+👉 Créez une issue. Tous les agents de la "brigade tech" sont les bienvenus !
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+## 📜 Licence
+
+Cette application est sous licence MIT. Utilisez-la, améliorez-la, mais faites-en bon usage. Avec un tel outil entre les mains, vous êtes responsables de vos distributions ! 💪
+
+---
+
+## ❤️ Remerciements
+
+Merci d’utiliser **La Brigade des Stups**, l’appli qui veille avec vous pendant les nuits médicales. Que vos médicaments soient toujours au bon endroit ! 🌙💊
